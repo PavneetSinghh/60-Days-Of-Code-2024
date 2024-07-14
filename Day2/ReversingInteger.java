@@ -20,7 +20,7 @@ class Solution {
     }
 }
 
-class Leetcode7
+class ReversingInteger
 {
     public static void main(String args[])
     {
