@@ -1,4 +1,4 @@
-//Reverse Integer
+//Reversing Integer
 
 class Solution {
     public static int reverse(int x) {
