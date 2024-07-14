@@ -1,3 +1,4 @@
+//To check for Armstrong Number
 class Ans 
 {
     public static boolean isArmstrong(int x){
