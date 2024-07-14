@@ -1,3 +1,4 @@
+//To check for Prime Number
 class pri {
     public boolean isPrime(int x) 
     {
