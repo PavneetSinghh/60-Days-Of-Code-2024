@@ -1,3 +1,4 @@
+//Printing all the divisors
 class divisor
 {
     public int div(int x)
