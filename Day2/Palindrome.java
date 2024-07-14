@@ -1,3 +1,4 @@
+//To check for Palindrome
 class Solution {
     public boolean isPalindrome(int x) {
         // Check for negative numbers
